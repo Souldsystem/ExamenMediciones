@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeasurementExam</string>
+    <string name="btn_Elim">Delete</string>
+    <string name="btn_Agre">Add Measurement</string>
+    <string name="btn_Volver">Back</string>
+</resources>
